@@ -8,10 +8,19 @@ body{
 
 .forma1{
     background-color: red;
-    width: 100vw;
+    width: 50vw;
     height: 100vh;
     font-size: 4rem;
     font-weight: bolder;
+    /* padding-top: 125px;
+    padding-right: 50px;
+    padding-bottom: 125px;
+    padding-left: 50px;
+     */
+    padding: 125px 125px 125px 125px;
+    border-top: 10px solid orange;
+    border-right: 10px solid yellow;
+    margin: 25px 20px 30px 12px;
 }
 
 .forma2{
