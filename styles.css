@@ -4,8 +4,8 @@ html{
 
 .forma1{
     background-color: red;
-    width: 50%;
-    height: 250px;
+    width: 100vw;
+    height: 100vh;
     font-size: 4rem;
     font-weight: bolder;
 }
