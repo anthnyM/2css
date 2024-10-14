@@ -36,3 +36,47 @@ body{
     height: 90vh;
     font-size: 10rem;
 }
+
+.span1{
+    background-color: lightblue;
+    color: white;
+    font-size: 10rem;
+    padding: 25px;
+    border: 15px solid orange;
+    margin: 25px;
+}
+
+.span2{
+    background-color: lightgreen;
+    color: white;
+    font-size: 10rem;
+}
+
+.uno{
+    background-color: lightsalmon; 
+    margin: 20px;
+    height: 150px;
+    width: 150px;
+    border: 20px solid orange;
+    display: inline-block;
+    font-size: 40px;
+    
+}
+
+.dos{
+    background-color: lightblue;
+    margin: 20px;
+    height: 150px;
+    width: 150px;
+    display: inline-block;
+    font-size: 40px;
+}
+
+.tres{
+    background-color: lightgreen;
+    margin: 10px;   
+    height: 150px;
+    width: 150px;
+    display: inline-block;
+    font-size: 40px;
+}
