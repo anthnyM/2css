@@ -2,6 +2,10 @@ html{
     font-size: 5px;
 }
 
+body{
+    margin: 0px;
+}
+
 .forma1{
     background-color: red;
     width: 100vw;
@@ -16,4 +20,10 @@ html{
     font-size: 3rem;
     height: 250px;
     color: white;
+}
+.forma3{
+    background-color: blue;
+    width: 90vw;
+    height: 90vh;
+    font-size: 10rem;
 }
